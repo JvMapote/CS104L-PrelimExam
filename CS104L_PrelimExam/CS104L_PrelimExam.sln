@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CS104L_PrelimExam", "CS104L_PrelimExam\CS104L_PrelimExam.pyproj", "{5E17A35B-6295-4ADA-A1AA-4EBF68E480D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E17A35B-6295-4ADA-A1AA-4EBF68E480D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E17A35B-6295-4ADA-A1AA-4EBF68E480D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAF3C186-CA67-4248-8F6B-54151907B971}
+	EndGlobalSection
+EndGlobal
